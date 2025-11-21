@@ -1,4 +1,4 @@
-# Milestone 1 – Jami Gayatri
+# Milestone 1 – Prateek Khese
 
 This folder contains all the required files for Milestone 1 of the FWI Prediction project.
 
@@ -24,6 +24,7 @@ This folder contains all the required files for Milestone 1 of the FWI Predictio
 - Loaded and cleaned the dataset.
 - Generated histograms to understand feature distributions.
 - Created correlation plots to check feature relationships with Fire Weather Index.
+
 
 
 
